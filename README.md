@@ -27,7 +27,7 @@ A modern React application for managing and monitoring feature flags with advanc
 
 1. **Clone and setup**
    ```bash
-   git clone https://github.com/yourusername/feature-flag-list-view.git
+   git clone https://github.com/Codesmith900/feature-flag-list-view.git
    cd feature-flag-list-view
    ```
 
@@ -91,14 +91,6 @@ The application includes sample feature flags for video compression algorithms. 
 - **Sort**: Click column headers to sort data
 - **Filter**: Use dropdown filters for environment, type, and status
 - **View Details**: Each flag shows rollout percentage, tags, and metadata
-
-## Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| `react-scripts not recognized` | `npm install react-scripts@latest` |
-| Tailwind styles not working | Ensure steps 3-4 are completed |
-| Port already in use | App will auto-find available port |
 
 ## Deployment
 
