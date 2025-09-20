@@ -98,6 +98,7 @@ The application includes sample feature flags for video compression algorithms. 
 ```bash
 npm run build
 # Drag 'build' folder to netlify.com/drop
+WEBSITE: https://68cebe5370eee658bbcba3eb--magical-hummingbird-2c39e4.netlify.app/
 ```
 
 ### Vercel
