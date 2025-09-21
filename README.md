@@ -78,7 +78,7 @@ npm run dev
 - **Frontend**: React 18+
 - **Styling**: Tailwind CSS 3.4+
 - **Icons**: Lucide React
-- **Build Tool**: Create React App / Vite
+- **Build Tool**: Create React App/Vite
 
 ## Usage
 
