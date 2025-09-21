@@ -8,8 +8,8 @@ A modern React application for managing and monitoring feature flags with advanc
 
 ## Features
 
-- **Smart Search** - Search across flag names, descriptions, and tags
-- **Advanced Filtering** - Filter by environment, type, and status
+- **Smart Search** - Search across flag names, descriptions and tags
+- **Advanced Filtering** - Filter by environment, type and status
 - **Dynamic Sorting** - Sort by any column with visual indicators
 - **Responsive Design** - Works seamlessly on all devices
 - **Real-time Updates** - Live filtering without page refresh
